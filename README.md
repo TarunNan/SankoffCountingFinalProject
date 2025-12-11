@@ -87,7 +87,7 @@ Make sure the corresponding data files exist:
 
 ### Input File Formats
 
-- `.tree`: Parent-child edges (one per line, space-separated)
+- `.tree`: Parent-child edges (phylogenetic tree structure)
 - `.labeling`: Leaf node locations (node name + anatomical site)
 - `.reported.labeling`: Published solution from McPherson et al.
 
